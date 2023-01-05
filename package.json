@@ -2,7 +2,7 @@
   "name": "taskmanager",
   "version": "1.0.0",
   "description": "",
-  "main": "../public/index.html",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
